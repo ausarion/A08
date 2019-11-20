@@ -1,0 +1,73 @@
+*  {
+     margin: 0;
+     padding:0; }
+
+
+
+/* the styles for the elements */
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+	width: 950px;
+	margin: 0px auto 0px auto;
+	border: 3px solid #000000;
+	background-color:  white;
+}
+
+
+
+}
+/* the styles for the header */
+header {
+	padding: 1.5ems 30px;
+	background-image:
+
+
+}
+
+main img {
+	float: left;
+	border; 0px 0px 3px;
+	padding: 0 0 1em;
+}
+
+blockquote {
+	padding: 0 2em;
+}
+
+ul {
+	padding: 0 0 .25em 1.25em;
+}
+
+li {
+	padding: 0 0 .35em;
+}
+main h1 {
+	font-size: 150%;
+	padding: .3em
+
+}
+
+main h2 {
+	font-size: 130%;
+	color: #800000;
+	padding: .5em;
+}
+
+main h3 {
+	font-size: 105%;
+	padding: 0 0 .25em;
+}
+
+header: link {
+	font-style: italic;
+}
+/* the styles for the section */
+
+/* the styles for the footer */
+footer p {
+	color: #000000;
+	padding: 1em;
+}
+
+
